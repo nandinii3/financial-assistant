@@ -3,6 +3,9 @@
 ## Overview
 The AI Financial Assistant is a Next.js application that helps users manage their budgets with AI-powered insights. The app works in **demo mode** without any external dependencies and can be enhanced with Supabase for persistent data storage.
 
+## Why I built this
+I got tired of juggling spreadsheets and forgetting where I spent all my money each month. So I built this little financial tracker to help me and hopefully others manage budgets, track spending, and get smarter with money.
+
 ## Features
 - **Budget Management**: Set monthly budgets for different spending categories
 - **Transaction Tracking**: Add and track transactions with automatic categorization
@@ -12,15 +15,15 @@ The AI Financial Assistant is a Next.js application that helps users manage thei
 
 ## Quick Start (Demo Mode)
 
-The app works out of the box without any configuration:
+Just clone, install and start you’ll have it running in under a minute.
 
-1. **Clone/Download** the project
+1. **Clone/Download** this repo
 2. **Install dependencies**: `npm install` or `yarn install`
-3. **Run locally**: `npm run dev` or `yarn dev`
+3. **Start the web app**: `npm run dev` or `yarn dev`
 4. **Open browser**: http://localhost:3000
 5. **Login**: Enter any email to start using the app
 
-Data is stored in browser's localStorage - it persists during the session but resets when you clear browser data.
+All data in demo mode is saved in localStorage, so it’ll stay until you clear browser data.
 
 ## Environment Variables
 
