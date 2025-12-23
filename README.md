@@ -1,6 +1,6 @@
-# Financial Assistant
+# FinPal
 
-A modern, finance management app built with Next.js. Track budgets, categorize transactions, and get personalized financial coaching all without requiring any API credits or external services.Future plan is to integrate the application with AI for better customised experience.
+A modern, finance management app built with Next.js. Track budgets, categorize transactions, and get personalized financial coaching along with expense warning all without requiring any API credits or external services.Future plan is to integrate the application with AI for better customised experience.
 
 ## Features
 
